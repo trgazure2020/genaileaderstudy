@@ -54,9 +54,18 @@ For generating text or answering simple, general questions without needing exter
 2. RAG:
 For retrieving and summarizing up-to-date, domain-specific knowledge during a conversation.
 
-3. AI Agent:
+
+4. AI Agent:
 For automating single-user tasks that need planning and tool use-like research assistance.
 
-4. Agentic AI:
+5. Agentic AI:
 For managing complex, multi-step, multi-user processes where multiple specialized agents coordinate as an ecosystem.
+
+
+
+<img width="251" height="201" alt="image" src="https://github.com/user-attachments/assets/6f912c37-816e-44e1-b45e-14671adfd2fa" />
+
+ Practice curated Questions for Gen AI Leader certification in the below Google form 📌
+
+https://docs.google.com/forms/d/e/1FAIpQLSezJ8qL53tmGThgBSrPHClpw74-YMm4i6mxoTBa-NpFLYLDzw/viewform?usp=header
 
